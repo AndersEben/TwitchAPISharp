@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFrameworks>netstandard2.0;net45</TargetFrameworks>
-    <NeutralLanguage>gsw-CH</NeutralLanguage>
+    <NeutralLanguage>en</NeutralLanguage>
     <Description>An API wrapper for using the Twitch APIs</Description>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <RepositoryUrl>https://github.com/AndersEben/TwitchAPISharp</RepositoryUrl>
